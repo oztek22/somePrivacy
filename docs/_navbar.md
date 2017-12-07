@@ -1,0 +1,12 @@
+- Getting started
+  - [Quick start](de-de/quickstart.md)
+  - [Writing more pages](de-de/more-pages.md)
+  - [Custom navbar](de-de/custom-navbar.md)
+  - [Cover page](de-de/cover.md)
+
+- Configuration
+  - [Configuration](de-de/configuration.md)
+  - [Themes](de-de/themes.md)
+  - [Using plugins](de-de/plugins.md)
+  - [Markdown configuration](de-de/markdown.md)
+  - [Language highlight](de-de/language-highlight.md)
