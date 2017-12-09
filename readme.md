@@ -1,5 +1,4 @@
 # Converter von Seite zu Markdown
-http://fuckyeahmarkdown.com/go/
 https://euangoddard.github.io/clipboard2markdown/
 
 
